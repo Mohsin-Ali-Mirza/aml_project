@@ -1,5 +1,3 @@
-Project Repository
-
 This repository contains two mini-projects related to 03-IMAP-AML Advanced Machine Learning:
 
 # 📂 Project Folders
